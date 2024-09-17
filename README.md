@@ -227,6 +227,6 @@ else:
 ```
 
 ## 인사이트 도출 
-
-
+![image](https://github.com/user-attachments/assets/5e01f773-3111-4b97-9f0c-5a3d3659e46c)
+- 불량거래수가 사무직에 많이 분포되어있으므로 사무직에 근무하는 사람에 대한 신용관리 정보 시스템을 제공필요
 
