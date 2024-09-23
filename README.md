@@ -28,8 +28,17 @@
 ![image](https://github.com/user-attachments/assets/7adf0ac2-b278-4fe7-b1f9-740c7b7c6e70) </br>
 ![image](https://github.com/user-attachments/assets/00099dfa-882f-45a7-9371-6a13618c347d)
 
-
+## 파생변수 
+- 직업을 3등급 분류 (1등급 = ProfExe,Mgr,Office) / 2등급 = Self / 3등급 Sale
 
 ## 인사이트 도출 
+- 불량거래수에 따른 직업분포 <br>
 ![image](https://github.com/user-attachments/assets/5e01f773-3111-4b97-9f0c-5a3d3659e46c)
+- 많은 분포를 차지하는 사무직에 근무하는 사람에 대한 신용관리 정보 시스템을 제공할 필요성이 있다. <br>
+
+
+
+- 체납횟수에 따른 직업 분포 <br>
+![image](https://github.com/user-attachments/assets/8e6c4af8-8b18-4a32-bf14-f5120a3f6c60)
+- 각 직업들에 대한 체납 관리 서비스를 제공할 필요성이 있다
 
